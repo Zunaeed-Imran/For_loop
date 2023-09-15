@@ -4,7 +4,7 @@ For_loop Practice in JavaScript
 - if we use var out side for loop will work 
 - if we use let out side for loop will not work
 3. for loop in
-- [https://youtu.be/ABJ9-ldZQkM?si=8-TR2zQFd4eNMRiv](Tutorial)
+- [Tutorial](https://youtu.be/ABJ9-ldZQkM?si=FMHxTOtjKy2vSyLK)
 - we use in
 - we use array in for loop
 - will show array position not value
